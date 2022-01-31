@@ -1,5 +1,5 @@
 {
-    "state": "disabled",
+    "state": "enabled",
     "database_name": "tracker",
     "partition": {
         "key": "_partition",
@@ -28,7 +28,7 @@
             }
         }
     },
-    "last_disabled": 1643654533,
+    "last_disabled": 1643654744,
     "development_mode_enabled": false,
     "service_name": "mongodb-atlas"
 }
