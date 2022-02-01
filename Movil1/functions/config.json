@@ -1,5 +1,20 @@
 [
     {
+        "name": "createNewUserDocument",
+        "private": true,
+        "can_evaluate": {}
+    },
+    {
+        "name": "getMyTeamMembers",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "removeTeamMember",
+        "private": false,
+        "run_as_system": true
+    },
+    {
         "name": "resetFunc",
         "private": false,
         "can_evaluate": {}
@@ -16,21 +31,6 @@
     },
     {
         "name": "canWritePartition",
-        "private": false,
-        "run_as_system": true
-    },
-    {
-        "name": "createNewUserDocument",
-        "private": true,
-        "can_evaluate": {}
-    },
-    {
-        "name": "getMyTeamMembers",
-        "private": false,
-        "run_as_system": true
-    },
-    {
-        "name": "removeTeamMember",
         "private": false,
         "run_as_system": true
     }
