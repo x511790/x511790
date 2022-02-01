@@ -10,6 +10,9 @@
         "name": {
             "bsonType": "string"
         },
+        "new_field": {
+            "bsonType": "string"
+        },
         "owner": {
             "bsonType": "string"
         },
