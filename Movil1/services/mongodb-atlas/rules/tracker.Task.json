@@ -24,6 +24,9 @@
             "name": {
                 "bsonType": "string"
             },
+            "owner2": {
+                "bsonType": "string"
+            },
             "owner": {
                 "bsonType": "string"
             },
