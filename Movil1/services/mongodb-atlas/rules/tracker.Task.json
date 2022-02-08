@@ -27,9 +27,6 @@
             "owner": {
                 "bsonType": "string"
             },
-//	    "new_field": {
-//		       "bsonType": "string"
- //           },
             "status": {
                 "bsonType": "string"
             }
