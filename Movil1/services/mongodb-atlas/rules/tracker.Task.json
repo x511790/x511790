@@ -21,6 +21,9 @@
             "_partition": {
                 "bsonType": "string"
             },
+            "name2": {
+                "bsonType": "string"
+            },
             "name": {
                 "bsonType": "string"
             },
